@@ -1,5 +1,7 @@
 # Avatar-the-last-waterbender
 ## [Demo video](https://youtu.be/leZAsIE7XCo)
+![image](https://user-images.githubusercontent.com/40749393/150722301-3f9ca6d8-49bb-4ef0-a0be-51a35fa6a129.png)
+![image](https://user-images.githubusercontent.com/40749393/150722329-ecdc6a1b-8d3d-436a-a7ee-2bb90c2c76ff.png)
 
 ## Background
 ### Chinese version
